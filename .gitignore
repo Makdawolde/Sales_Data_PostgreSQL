@@ -1,15 +1,1 @@
-# Power BI Project files to ignore
-*.pbix
-*.pbit
-*.tmp
-*.bak
-*.cache
-*.zip
-*.pbids
 
-# Windows system files
-Thumbs.db
-Desktop.ini
-
-# VS Code settings (if used)
-.vscode/
